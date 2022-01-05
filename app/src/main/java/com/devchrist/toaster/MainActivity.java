@@ -1,4 +1,4 @@
-package com.devchrist.libraries;
+package com.devchrist.toaster;
 
 import androidx.appcompat.app.AppCompatActivity;
 

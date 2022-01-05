@@ -1,4 +1,4 @@
-package com.devchrist.toast;
+package com.devchrist.toaster;
 
 import org.junit.Test;
 
